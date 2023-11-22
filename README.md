@@ -9,6 +9,8 @@
 
 - 🌱 I’m currently learning **Kotlin,Solidity,Nodejs etc**
 
+- 👨‍💻 All of my projects are available at [https://linktr.ee/mdshamsuzzama](https://linktr.ee/mdshamsuzzama)
+  
 - 👨‍💻 All of my projects are available at [https://my-portfolio-snowy-xi.vercel.app](https://my-portfolio-snowy-xi.vercel.app)
 
 - 💬 Ask me about **Reactjs,Nextjs,TailwindCss etc**
