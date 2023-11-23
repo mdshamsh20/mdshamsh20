@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdshamsh20" alt="mdshamsh20" /></a> </p>
 
-- 🔭 I’m currently working in **SettleMint**
+- 🔭 I’m currently working at **SettleMint**
 
 - 🌱 I’m currently learning **Kotlin,Solidity,Nodejs etc**
 
