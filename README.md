@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Md Shamsuzzama Siddique</h1>
 <h3 align="center">About: Software developer with 1.5+ year of experience in developing and maintaining real-world software products using Typescript, Next.js, Tailwind CSS, JavaScript, and React.js. Proven ability to collaborate with a team of experienced engineers to design, implement, and test new features. Seeking a challenging software development role where I can use my skills to build innovative and user-friendly products.</h3>
 
-
-# License
-
-This product is licensed under the
-[MIT License](https://github.com/ryo-ma/github-profile-trophy/blob/master/LICENSE).
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdshamsh20&label=Profile%20views&color=0e75b6&style=flat" alt="mdshamsh20" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdshamsh20" alt="mdshamsh20" /></a> </p>
