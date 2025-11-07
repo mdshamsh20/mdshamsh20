@@ -1,41 +1,86 @@
-<h1 align="center">Hi 👋, I'm Md Shamsuzzama Siddique</h1>
-<h3 align="center">About: DevOps Engineer with more than 2 years of experience automating cloud infrastructure, designing CI/CD pipelines, and
-managing production-grade systems. Skilled in WSO2 administration, Kubernetes orchestration, and implementing In-
-frastructure as Code across AWS and on-prem environments. Adept at improving system reliability through automation,
-proactive monitoring, and security best practices. Proven record of ensuring zero-downtime deployments and driving
-scalable, resilient infrastructure solutions.</h3>
+<h1 align="center">👋 Hi, I'm Md Shamsuzzama Siddique</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdshamsh20&label=Profile%20views&color=0e75b6&style=flat" alt="mdshamsh20" /> </p>
+<h3 align="center">
+🚀 DevOps Engineer | Cloud Infrastructure | Automation | CI/CD | Kubernetes | WSO2 Expert
+</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdshamsh20" alt="mdshamsh20" /></a> </p>
-
-- 🔭 I’m currently working at **SettleMint India**
-
--  All of my personal links are available at [https://linktr.ee/mdshamsuzzama](https://linktr.ee/mdshamsuzzama)
-  
-- 👨‍💻 All of my portfolio are available at [https://my-portfolio-snowy-xi.vercel.app](https://my-portfolio-snowy-xi.vercel.app)
-
-- 💬 Ask me about **AWS / Azure / Docker / Kubernetes CI/CD / Jenkins / GitLab / Azure Pipelines Terraform / Ansible
-Prometheus / Grafana / Loki Python / Bash / Git WSO2 APIM / Identity Server /
-Security Hardening / SonarQube Monitoring Logging / Observability etc**
-
-- 📫 How to reach me **mdshamsuzzama19@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1BXrIZ-YeQNUoopBa0vmH7ngj8yEq1gxO/view](https://drive.google.com/file/d/1BXrIZ-YeQNUoopBa0vmH7ngj8yEq1gxO/view)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/https://codepen.io/mdshamsh20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/mdshamsh20" height="30" width="40" /></a>
-<a href="https://twitter.com/mdshamsh736764" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mdshamsh736764" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/md-shamsuzzama-siddique-baa9a5213/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-shamsuzzama-siddique-baa9a5213/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@mdshamsuzzama19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@mdshamsuzzama19" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/mdshamsh20"><img src="https://komarev.com/ghpvc/?username=mdshamsh20&label=Profile%20views&color=0e75b6&style=flat" alt="mdshamsh20" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdshamsh20&theme=onedark&row=1&column=6" alt="trophies"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://bulma.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdshamsh20&show_icons=true&locale=en&layout=compact" alt="mdshamsh20" /></p>
+### 🧑‍💻 About Me
+DevOps Engineer with **2+ years of hands-on experience** automating cloud infrastructure, designing CI/CD pipelines, and managing **production-grade Kubernetes and WSO2 systems**.  
+I specialize in improving **deployment reliability**, **infrastructure scalability**, and **system observability** using automation and best DevOps practices.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdshamsh20&show_icons=true&locale=en" alt="mdshamsh20" /></p>
+- 🔭 Currently working at **Settlement India**
+- 🌩️ Focused on **Cloud Infrastructure, CI/CD, and Kubernetes Automation**
+- 🌐 Portfolio: [my-portfolio-snowy-xi.vercel.app](https://my-portfolio-snowy-xi.vercel.app)
+- 🌍 Personal Links: [linktr.ee/mdshamsuzzama](https://linktr.ee/mdshamsuzzama)
+- 📄 Resume: [View Here](https://drive.google.com/file/d/1BXrIZ-YeQNUoopBa0vmH7ngj8yEq1gxO/view)
+- 📫 Reach me: **mdshamsuzzama19@gmail.com**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdshamsh20&" alt="mdshamsh20" /></p>
+---
+
+### 🧠 Tech Stack & Tools
+#### 🛠️ DevOps & Cloud
+AWS | Azure | Docker | Kubernetes | Jenkins | GitLab CI | Azure Pipelines | Terraform | Ansible  
+WSO2 API Manager | WSO2 Identity Server | NGINX | SonarQube | Prometheus | Grafana | Loki  
+
+#### 💻 Programming & Scripting
+Python | Bash | JavaScript | TypeScript | Node.js  
+
+#### 🧩 Frontend & Design
+React.js | Next.js | Tailwind CSS | Vue.js | HTML | CSS | Figma | Adobe XD  
+
+#### 🗄️ Databases
+MSSQL | MySQL | Firebase | Oracle  
+
+---
+
+### 🚀 What I Do
+✅ **Automate Cloud Infrastructure** using Terraform & Ansible  
+✅ **Build CI/CD Pipelines** in Jenkins, GitLab CI, and Azure Pipelines  
+✅ **Containerize & Orchestrate** apps using Docker & Kubernetes  
+✅ **Administer WSO2** APIM and IS for enterprise integrations  
+✅ **Monitor Systems** with Prometheus, Grafana, and Loki  
+✅ **Implement Security Hardening** and DevSecOps best practices  
+
+---
+
+### 🏆 Featured Projects
+| Project | Description | Tech Stack |
+|----------|--------------|------------|
+| **DevOps Pipeline Setup** | Automated CI/CD for microservices using Jenkins, Docker & K8s | Jenkins, Docker, Kubernetes, Helm |
+| **WSO2 API Gateway Integration** | Configured API gateway with dynamic routing and analytics | WSO2 APIM, NGINX, Python |
+| **Real-time Crypto Dashboard** | Displays live cryptocurrency data | React.js, Tailwind, Firebase |
+| **Web Editor** | Real-time collaborative code editor | React.js, JavaScript, WebSocket |
+| **Chat App** | Authentication and live chat functionality | Vue.js, Firebase, Tailwind |
+
+---
+
+### 📊 GitHub Analytics
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mdshamsh20&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mdshamsh20&theme=tokyonight" />
+</p>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdshamsh20&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 🤝 Connect With Me
+<p align="left">
+<a href="https://twitter.com/mdshamsh736764" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="twitter" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/md-shamsuzzama-siddique-baa9a5213/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://codepen.io/mdshamsh20" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-original.svg" alt="codepen" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/mdshamsuzzama19" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg" alt="hackerrank" height="30" width="40" /></a>
+</p>
+
+---
+
+⭐ **"Automate everything, monitor proactively, and build reliable systems."**  
+— *Md Shamsuzzama Siddique*
