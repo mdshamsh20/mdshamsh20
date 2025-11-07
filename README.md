@@ -9,15 +9,15 @@ scalable, resilient infrastructure solutions.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdshamsh20" alt="mdshamsh20" /></a> </p>
 
-- 🔭 I’m currently working at **SettleMint**
-
-- 🌱 I’m currently learning **Kotlin,Solidity,Nodejs etc**
+- 🔭 I’m currently working at **SettleMint India**
 
 -  All of my personal links are available at [https://linktr.ee/mdshamsuzzama](https://linktr.ee/mdshamsuzzama)
   
 - 👨‍💻 All of my portfolio are available at [https://my-portfolio-snowy-xi.vercel.app](https://my-portfolio-snowy-xi.vercel.app)
 
-- 💬 Ask me about **Reactjs,Nextjs,TailwindCss etc**
+- 💬 Ask me about **AWS / Azure / Docker / Kubernetes CI/CD / Jenkins / GitLab / Azure Pipelines Terraform / Ansible
+Prometheus / Grafana / Loki Python / Bash / Git WSO2 APIM / Identity Server /
+Security Hardening / SonarQube Monitoring Logging / Observability etc**
 
 - 📫 How to reach me **mdshamsuzzama19@gmail.com**
 
